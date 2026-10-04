@@ -3,7 +3,7 @@
 ##  hw5_skeleton.py
 
 __version__   = '1.0.0'
-__author__    = "Aditya Abhang ([your login]@purdue.edu)"
+__author__    = "Aditya Abhang (aabhang@purdue.edu)"
 __date__      = '2026-September-23'
 
 
